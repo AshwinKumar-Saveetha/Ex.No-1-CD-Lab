@@ -76,6 +76,7 @@ return 0;
 
 OUTPUT:
 
+![image](https://github.com/user-attachments/assets/ff30d3a5-0f0d-4113-8dfe-da96945e314d)
 
 
 RESULT:
